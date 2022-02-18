@@ -1,4 +1,4 @@
-## Machine Learning Model Building Project: Data Analysis
+## Machine Learning Model Building Project
 
 In the following notebooks, I will take you through a practical example of each one of the steps in the Machine Learning model building pipeline that I learned throughout my experience and analyzing many kaggle notebooks. There will be a notebook for each one of the Machine Learning Pipeline steps:
 
