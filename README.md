@@ -25,3 +25,7 @@ We aim to minimise the difference between the real price, and the estimated pric
 
 To download the House Price dataset go this website:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+### Resources
+
+Most of the techniques I used in this project was learned from the Udemy Course [Feature Engineering for Machine Learning](https://www.udemy.com/course/feature-engineering-for-machine-learning/). I highly recommend to check this course. 
